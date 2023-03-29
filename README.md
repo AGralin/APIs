@@ -1,1 +1,1 @@
-# HW-5-API
+-  Used Alpaca API call via the Alpaca SDK to get historical price data for use in Monte Carlo simulations
